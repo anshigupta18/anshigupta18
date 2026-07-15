@@ -45,6 +45,12 @@ Interactive dashboards analyzing revenue, profit, ROE & debt of top pharma compa
 
 ---
 
+### 🔹 **Diabetes Hospital Readmission - EDA Python Project**
+Exploratory data analysis on the Diabetes 130-US Hospitals dataset. <br>
+📁 *Repo:* [https://github.com/anshigupta18/diabetes_EDA]
+
+---
+
 
 ## 🤝 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/anshika-gupta-95436428b)  

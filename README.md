@@ -33,6 +33,15 @@
 
 ## 📌 Featured Projects
 
+### 🔹 **•	Sensor Anomaly Detection – Dairy Cold-Chain Unit**
+•	Loaded 2-minute sensor readings (1,050 after cleaning; AC voltage, temperature, battery voltage, compressor current) into SQLite, used LAG() window functions, engineered 30-minute rolling-average features in pandas and trained an Isolation Forest (3% contamination).
+•	Validated flags against real device status-register transitions, grouped 32 flagged readings into 8 distinct events and found temperature and compressor current, not voltage, drove the anomalies (about 57% above normal).
+•	Built a Power BI dashboard (KPI cards, anomaly heatmap, trend and scatter charts, DAX measures) and wrote recommendations for operations teams, technicians and management.
+
+📁 *Repo:* [https://github.com/anshigupta18/sensor-anomaly-detection]
+
+---
+
 ### 🔹 **Breast Cancer Tumor EDA (R Analysis)**
 Exploratory data analysis comparing benign vs malignant tumors using R.  
 📁 *Repo:* [https://github.com/anshigupta18/BreastCancer-R-Analysis]
@@ -54,7 +63,7 @@ Exploratory data analysis on the Diabetes 130-US Hospitals dataset. <br>
 
 ## 🤝 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/anshika-gupta-95436428b)  
-📧 Email: ganshika1805@gmail.com
+📧 Email: anshikaguptablr@gmail.com
 
 ---
 
